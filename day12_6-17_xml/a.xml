@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='gbk' ?>
+<?xml-stylesheet type="text/css" href="a.css" ?>
+<!--根标签只有一个-->
+<!--一行写文档声明-->
+<users>
+    <user id="1">
+        <name>张三</name>
+        <age>20</age>
+        <gender>male</gender>
+    </user>
+    <user id="2">
+        <name>lisi</name>
+        <age>18</age>
+        <gender>female</gender>
+    </user>
+    <![CDATA[if(a>b){}]]>
+</users>

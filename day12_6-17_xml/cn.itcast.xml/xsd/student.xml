@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+xsi:schemaLocation="
+
+				http://www.itcast.cn/xml student.xsd
+ 					http://www.itcast.cn/xml2 student2.xsd"
+		   xmlns="http://www.itcast.cn/xml"
+		   xmlns:b="http://www.itcast.cn/xml2"
+
+
+>
+	<student number="heima_0001">
+		<name>zhangsan</name>
+		<age>18</age>
+		<sex>male</sex>
+	</student>
+	<student number="heima_0002">
+		<name>lisi</name>
+		<age>18</age>
+		<sex>female</sex>
+	</student>
+	<!--<b:标签> 区分不同文件同名元素 命名空间 xx:a xx:b a:xx b:xx-->
+</students>

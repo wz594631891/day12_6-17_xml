@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="gbk"?>
+<!DOCTYPE students SYSTEM "student.dtd">
+<students>
+	<student number="s1">
+		<name>zhangsan</name>
+		<age>18</age>
+		<sex>male</sex>
+		<!--DTD: Document Type Definition-->
+	</student>
+	<student number="s2">
+		<name>lisi</name>
+		<age>18</age>
+		<sex>female</sex>
+
+	</student>
+</students>
+
